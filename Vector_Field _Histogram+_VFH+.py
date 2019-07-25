@@ -1,3 +1,7 @@
+#implementation of Vector Field Histogram+ (VFH+) algorithm in Python
+#Created by Silvester for bachelor final project
+#Email: silvesterkiki@gmail.com
+
 import threading
 import PyLidar3
 # import matplotlib.pyplot as plt
