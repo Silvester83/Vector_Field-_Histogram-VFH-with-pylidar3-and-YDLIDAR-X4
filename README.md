@@ -7,3 +7,5 @@ The plot used in this program is using PyQtgraph from PyQt4
 There's an issue in this program which comes from the library used, 
 the PyLidar3 library used in this implementation averages all the reading in 1 degree angle range,
 and it causes missreadings at some detected object boundary.
+
+Special thanks github account @johnliu55tw who made the algorithm in C, who also helped me in developing this program
